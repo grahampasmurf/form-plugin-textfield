@@ -5,7 +5,7 @@ const baseStyle = css`
     width: 100%;
     display: block;
 
-    --mdc-theme-primary: var(--ntx-form-theme-color-highlight, #f56900);
+    --mdc-theme-primary: var(--ntx-form-theme-color-highlight, #f06e0b);
   }
 
   mwc-textfield {

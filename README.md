@@ -32,3 +32,5 @@ Commands:
 * `npm run analyze` generates the custom-elements.json file, a standard file which describes the web component and is used by storybook to generate the controls. This file can also be used for intellisence in other editors when developing your web components.
 * `npm run build` builds the web components ready to be hosted and consumed by Nintex Forms.
 * `npm run release` bundles storybook, if you would like to host it to share with others.
+
+Amen.
