@@ -41,6 +41,7 @@ export class NintexSampleTextfield extends LitElement {
   @property({ type: Boolean })
   readOnly: boolean = false;   //Add a read-only mode. See https://help.nintex.com/en-US/formplugins/Reference/ReadOnly.htm
 
+  // For this project it should remain as PluginContract, the promise may different between projects.
   static getMetaConfig(): Promise<PluginContract> | PluginContract {
     // plugin contract information
     return {
